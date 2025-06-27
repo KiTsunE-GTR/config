@@ -4,9 +4,11 @@ DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,ilook.tv
+DOMAIN-SUFFIX,yt3.googleusercontent.com
 DOMAIN-KEYWORD,phncdn
 DOMAIN-KEYWORD,pornhub
 DOMAIN-KEYWORD,tiktokcdn
 DOMAIN-KEYWORD,tiktokv
 DOMAIN-KEYWORD,onlinesim
 DOMAIN-KEYWORD,proton
+DOMAIN-KEYWORD,googleusercontent
